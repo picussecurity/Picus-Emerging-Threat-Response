@@ -21,4 +21,5 @@ CVE-2024-27199 vulnerability is caused by a CWE-23 weakness found in many API en
 
 Disclaimer
 ----------
-We do not have any disclamer.
+©2024 Picus Security <br>
+All rights reserved.
