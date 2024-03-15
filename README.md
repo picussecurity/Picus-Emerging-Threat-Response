@@ -10,7 +10,7 @@ Use [Picus Emerging Threat Simulator](https://insights.picussecurity.com/emergin
 
 If you are looking for full access to our threat library and actionable mitigations, get [your 14-day free trial](UTM_Free_Trial) of Picus Platform. 
 
-Proof-of-concept Exploits in this repo
+Proof-of-Concept Exploits in this repo
 ----------------------
 #### [JetBrains TeamCity CVE-2024-27198 PoC Exploit](https://github.com/picussecurity/Picus-Emerging-Threat-Response/tree/main/JetBrains%20TeamCity%20CVE-2024-27198%20PoC%20Exploit)
 CVE-2024-27198 vulnerability is caused by a CWE-288 weakness found in BaseController class of web-openapi.jar library. When an API endpoint receives a request appended with. jsp, the BaseController class allows the request to bypass authentication.
