@@ -8,7 +8,7 @@ Validate security controls against the latest vulnerability exploits and ransomw
 Picus can help you validate security controls for the latest threats for free. No setup or signup required. </br>
 Use [Picus Emerging Threat Simulator](https://insights.picussecurity.com/emerging-threat-simulator-announcement?utm_source=github&utm_medium=organic+social&utm_campaign=PLS+Offensive+-+ET+Simulator) and test your defenses in a few clicks.
 
-If you are looking for full access to our threat library and actionable mitigations, get [your 14-day free trial](UTM_Free_Trial) of Picus Platform. 
+If you are looking for full access to our threat library and actionable mitigations, get [your 14-day free trial](https://discover.picussecurity.com/start-your-free-trial?utm_source=github&utm_medium=organic+social&utm_campaign=PLS+Offensive+-+ET+Simulator) of Picus Platform. 
 
 Proof-of-Concept Exploits in this repo
 ----------------------
