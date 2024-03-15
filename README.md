@@ -3,7 +3,7 @@ Emerging Threats are urgent cybersecurity issues that need to be addressed immed
 
 Picus Security created this repo for professionals looking to validate their security posture against the latest cyber threats with a few click. 
 
-Validate security controls against the latest vulnerability exploits and ransomware attacks
+Validate security controls against the latest vulnerability exploits
 --------------------------------------
 Picus can help you validate security controls for the latest threats for free. No setup or signup required. </br>
 Use [Picus Emerging Threat Simulator](https://insights.picussecurity.com/emerging-threat-simulator-announcement?utm_source=github&utm_medium=organic+social&utm_campaign=PLS+Offensive+-+ET+Simulator) and test your defenses in a few clicks.
