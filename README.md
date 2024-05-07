@@ -6,7 +6,7 @@ Picus Security created this repo for professionals looking to validate their sec
 Validate security controls against the latest vulnerability exploits
 --------------------------------------
 Picus can help you validate security controls for the latest threats for free. No setup or signup is required. </br>
-Use [Picus Emerging Threat Simulator](https://insights.picussecurity.com/emerging-threat-simulator-announcement?utm_source=github&utm_medium=organic+social&utm_campaign=PLS+Offensive+-+ET+Simulator) and test your defenses in a few clicks.
+Use [Picus Emerging Threat Simulator](https://www.picussecurity.com/emerging-threat-simulator?utm_source=github&utm_medium=organic+social&utm_campaign=PLS+Offensive+-+ET+Simulator) and test your defenses in a few clicks.
 
 If you are looking for full access to our threat library and actionable mitigations, get [your 14-day free trial](https://discover.picussecurity.com/start-your-free-trial?utm_source=github&utm_medium=organic+social&utm_campaign=PLS+Offensive+-+ET+Simulator) of the Picus Platform. 
 
