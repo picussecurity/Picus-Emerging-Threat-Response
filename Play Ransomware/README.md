@@ -7,7 +7,7 @@ Test security controls against Play Ransomware
 Picus can help you simulate Play ransomware attacks for free. No setup or signup is required.<br>
 Use [Picus Emerging Threat Simulator](https://www.picussecurity.com/emerging-threat-simulator?utm_source=github&utm_medium=organic+social&utm_campaign=PLS+Offensive+-+ET+Simulator) and test your defenses in a few clicks.<br> 
 
-If you are looking for more detailed information, check out our blog posts on Play:<br>
+If you are looking for more detailed information, check out our blog post on Play:<br>
 * [Play Ransomware Analysis, Simulation and Mitigation- CISA Alert AA23-352A](https://www.picussecurity.com/resource/blog/play-ransomware-analysis-simulation-and-mitigation-cisa-alert-aa23-352a)<br>
 
 Play - Metadata
