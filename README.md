@@ -16,6 +16,9 @@ Proof-of-Concept Exploits in this repo
 #### [JetBrains TeamCity CVE-2023-42793 PoC Exploit](https://github.com/picussecurity/Picus-Emerging-Threat-Response/tree/main/JetBrains%20TeamCity%20CVE-2023-42793%20PoC%20Exploit)
 CVE-2023-42793 vulnerability is an authentication bypass vulnerability. The vulnerability is found in the "RequestInterceptiors.java" file, and it is caused by the wildcard path "//RPC2" in the "myPreHandlingDisabled" PathSet. If any incoming HTTP request matches the wildcard path "//RPC2", the TeamCity server does not perform authentication checks. Adversaries abuse this vulnerability to obtain an access token by sending an HTTP POST request to "/app/rest/users/id:1/tokens/RPC2" endpoint.
 
+#### [Palo Alto PAN-OS CVE-2024-3400 PoC Exploit](https://github.com/picussecurity/Picus-Emerging-Threat-Response/tree/main/Palo%20Alto%20PAN-OS%20CVE-2024-3400%20PoC%20Exploit)
+CVE-2024-3400 is a command injection vulnerability found in the GlobalProtect feature of PAN-OS software. The telemetry functionality in the GlobalProtect uses the curl command to send logs from a temporary directory. Using malformed SESSID, adversaries were able to inject shell commands with root privileges via unauthenticated HTTP post requests.
+
 Ransomware Threats in this repo
 ----------------------
 #### [Play Ransomware](https://github.com/picussecurity/Picus-Emerging-Threat-Response/tree/main/Play%20Ransomware)
