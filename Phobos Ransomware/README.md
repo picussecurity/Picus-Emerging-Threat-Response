@@ -14,7 +14,7 @@ Phobos - Metadata
 ----------------------
 | | |
 |:---|:---|
-| **Associated Groups** | Affiliates - Crysis, Dharma, Backmydata, Devos, Eking, Eight 8Base, Faust |
+| **Associated Groups** | Affiliates - Crysis, Dharma, Backmydata, Devos, Eking, Eight, 8Base, Faust |
 | **Associated Country** | - |
 | **First Seen** | May 2019 |
 | **Target Sectors** | Automotive, Construction, Finance, Healthcare, Hospitality, IT, Manufacturing, Real Estate |
