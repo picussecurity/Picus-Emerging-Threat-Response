@@ -21,6 +21,9 @@ Ransomware Threats in this repo
 #### [Play Ransomware](https://github.com/picussecurity/Picus-Emerging-Threat-Response/tree/main/Play%20Ransomware)
 Play ransomware, also known as PlayCrypt, was first observed in late June 2022, and the group has compromised nearly 300 organizations worldwide. Play ransomware operators exploit known vulnerabilities and follow recent ransomware trends like double extortion and inhibiting system recovery.
 
+#### [Phobos Ransomware](https://github.com/picussecurity/Picus-Emerging-Threat-Response/tree/main/Phobos%20Ransomware)
+Phobos ransomware started its operations as a variant of Crysis/Dharma ransomware in May 2019.  Phobos ransomware operates as the Ransomware-as-a-Service business model and has influenced many other ransomware variants such as Backmydata, Devos, Eking, Eight, 8Base, and Faust ransomware.
+
 Disclaimer
 ----------
 ©2024 Picus Security <br>
